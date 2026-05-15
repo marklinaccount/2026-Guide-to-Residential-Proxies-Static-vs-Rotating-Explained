@@ -62,7 +62,7 @@ How to Choose the Right One
 Practical Setup Guide: How to Configure a Rotating Residential Proxy
 Below is a simplified, universal setup example using the IPFoxy rotating residential proxy.
 This helps you practice and master the workflow quickly.
-IPFoxy Rotating Proxy Default Format
+IPFoxy Rotating Proxy Default Format https://www.ipfoxy.com/invite/githubbb
 Protocol://host:port:username-cc-country-sessid-random_session:password
 Step 1: Select a Route (example: Asia-Pacific route)
 Host: gate-sg.ipfoxy.io
